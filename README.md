@@ -25,21 +25,21 @@ This project demonstrates the development of a predictive model using a dataset.
                          └── README.md # Project documentation
 
 ## Installation
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/predictive-modeling.git
    cd predictive-modeling
    
-2. Install the required packages:
+2. **Install the required packages:**
    
     pip install -r requirements.txt
    
 ## Usage   
    
-1. Prepare your dataset in the /data directory and name it dataset.csv.
-2. Train the model:
+1. Prepare your dataset in the **/data** directory and name it dataset.csv.
+2. **Train the model:**
      python src/train.py
-3. Make predictions:
+3. **Make predictions:**
     python src/predict.py
 
 ## Testing
